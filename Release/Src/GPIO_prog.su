@@ -1,0 +1,11 @@
+../Src/GPIO_prog.c:46:6:MGPIO_vSetPinMode	8	static
+../Src/GPIO_prog.c:61:6:MGPIO_vSetPinOutputType	0	static
+../Src/GPIO_prog.c:92:6:MGPIO_vSetPinOutputSpeed	8	static
+../Src/GPIO_prog.c:107:6:MGPIO_vSetPinPullType	8	static
+../Src/GPIO_prog.c:122:4:MGPIO_u8GetPinValue	0	static
+../Src/GPIO_prog.c:139:6:MGPIO_vSetPinValue	0	static
+../Src/GPIO_prog.c:154:6:MGPIO_vSetPortValue	0	static
+../Src/GPIO_prog.c:169:6:MGPIO_vSetPinValueDirect	0	static
+../Src/GPIO_prog.c:201:6:MGPIO_vLockpin	0	static
+../Src/GPIO_prog.c:246:6:MGPIO_vSetPinAlternateFunction	8	static
+../Src/GPIO_prog.c:280:6:MGPIO_vSendByte	8	static

@@ -1,0 +1,3 @@
+../Src/MQTT.c:21:6:MQTT_Connect	24	static
+../Src/MQTT.c:46:6:MQTT_Subscribe	24	static
+../Src/MQTT.c:67:6:MQTT_Publish	40	static

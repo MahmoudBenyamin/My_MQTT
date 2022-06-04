@@ -1,0 +1,11 @@
+../Src/UART_prog.c:49:6:MUART_vInit	4	static
+../Src/UART_prog.c:136:6:MUART_vEnable	16	static
+../Src/UART_prog.c:154:6:MUART_vDisable	16	static
+../Src/UART_prog.c:172:6:MUART_u8SendData	24	static
+../Src/UART_prog.c:188:4:MUART_u8ReadData	24	static
+../Src/UART_prog.c:199:10:MUART_GetHandler	24	static
+../Src/UART_prog.c:220:6:MUSART1_VidSetCallBack	16	static
+../Src/UART_prog.c:230:6:USART1_IRQHandler	8	static
+../Src/UART_prog.c:239:6:MUART6_vSendChar	16	static
+../Src/UART_prog.c:256:6:MUART6_Send_String	24	static
+../Src/UART_prog.c:267:5:MUART6_u8Receive	4	static

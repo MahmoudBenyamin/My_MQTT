@@ -1,0 +1,2 @@
+../Src/Delay_prog.c:42:13:Delay_vMsIn16MHz	24	static
+../Src/Delay_prog.c:62:13:Delay_vUsIn16MHzint	24	static

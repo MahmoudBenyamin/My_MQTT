@@ -1,0 +1,8 @@
+../Src/RCC_prog.c:47:6:MRCC_vEnableClock	0	static
+../Src/RCC_prog.c:73:6:MRCC_vDisableClock	0	static
+../Src/RCC_prog.c:92:6:MRCC_vEnableSecuritySystem	0	static
+../Src/RCC_prog.c:103:6:MRCC_vDisableSecuritySystem	0	static
+../Src/RCC_prog.c:117:6:MRCC_vInitSystemCLK	0	static
+../Src/RCC_prog.c:202:6:MRCC_vOutMCO_1	0	static
+../Src/RCC_prog.c:239:6:MRCC_vOutMCO_1Pre	0	static
+../Src/RCC_prog.c:274:6:MRCC_vInitSystemCLK_Systick	0	static
